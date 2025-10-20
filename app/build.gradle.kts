@@ -20,7 +20,7 @@ plugins {
 
 android {
     namespace = "com.example.cupcake"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.cupcake"
